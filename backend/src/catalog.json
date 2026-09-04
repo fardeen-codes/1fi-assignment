@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "description": "Apple's flagship Pro smartphone with A19 Pro chip, titanium design, and a pro-grade camera system.",
+    "soldCount": 70,
+    "rating": 4.2,
+    "sellerName": "1Fi Marketplace",
+    "dispatchMessage": "Dispatch in less than 48 hours",
+    "deliveryMessage": "Delivery in 3-7 working days after dispatch.",
+    "replacementMessage": "2 days service centre replacement for defective or incorrect items.",
+    "variants": [
+      { "variantLabel": "256GB / Silver", "color": "Silver", "storage": "256GB", "mrp": 134900, "price": 127400, "imageUrl": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/317432_0_8iVhHIsBIF.png?updatedAt=1757529382415", "isDefault": true },
+      { "variantLabel": "256GB / Cosmic Orange", "color": "Cosmic Orange", "storage": "256GB", "mrp": 134900, "price": 127400, "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HOmhG6Xx5YDp98kgfnls8uxsXItUlQnoyNUzCBY06lxvfk1zRx-xZh1n&s=10" },
+      { "variantLabel": "512GB / Deep Blue", "color": "Deep Blue", "storage": "512GB", "mrp": 154900, "price": 146900, "imageUrl": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/317451_0_68WO_y5X_.png?updatedAt=1757573917379" }
+    ]
+  },
+  {
+    "slug": "samsung-s24-ultra",
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "description": "Samsung's premium Galaxy S-series device with S Pen support, a 200MP camera, and a titanium frame.",
+    "soldCount": 54,
+    "rating": 4.4,
+    "sellerName": "1Fi Marketplace",
+    "dispatchMessage": "Dispatch in less than 48 hours",
+    "deliveryMessage": "Delivery in 3-7 working days after dispatch.",
+    "replacementMessage": "2 days service centre replacement for defective or incorrect items.",
+    "variants": [
+      { "variantLabel": "256GB / Titanium Black", "color": "Titanium Black", "storage": "256GB", "mrp": 129999, "price": 119999, "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80", "isDefault": true },
+      { "variantLabel": "256GB / Titanium Gray", "color": "Titanium Gray", "storage": "256GB", "mrp": 129999, "price": 119999, "imageUrl": "https://images.unsplash.com/photo-1610792516307-ea5acd9c3b00?w=800&q=80" },
+      { "variantLabel": "512GB / Titanium Violet", "color": "Titanium Violet", "storage": "512GB", "mrp": 144999, "price": 134999, "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80" }
+    ]
+  },
+  {
+    "slug": "oneplus-13",
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "description": "OnePlus's flagship killer with Snapdragon 8 Elite, Hasselblad camera tuning, and 100W fast charging.",
+    "soldCount": 42,
+    "rating": 4.3,
+    "sellerName": "1Fi Marketplace",
+    "dispatchMessage": "Dispatch in less than 48 hours",
+    "deliveryMessage": "Delivery in 3-7 working days after dispatch.",
+    "replacementMessage": "2 days service centre replacement for defective or incorrect items.",
+    "variants": [
+      { "variantLabel": "256GB / Midnight Ocean", "color": "Midnight Ocean", "storage": "256GB", "mrp": 69999, "price": 64999, "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&q=80", "isDefault": true },
+      { "variantLabel": "512GB / Arctic Dawn", "color": "Arctic Dawn", "storage": "512GB", "mrp": 79999, "price": 74999, "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80" }
+    ]
+  }
+]
